@@ -17,5 +17,5 @@ Below is an example visualization generated using VESTA visualisation tools:
 # <img src="docs/images/step-2.png" alt="Ar-isotherm-steps" style="padding:10px;" width="600"/>
 
 ## Citation
-If you use this code in your research, please kindly consider citing the following:
+If you use this code in your research, please kindly consider citing the following:  
 [https://chemrxiv.org/engage/chemrxiv/article-details/68cef31e3e708a764963d3a9]
