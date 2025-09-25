@@ -14,7 +14,7 @@ An illustrative case is the study of pore filling mechanisms in argon (Ar) adsor
 
 Below is an example visualization generated using VESTA visualisation tools:
 
-# <img src="docs/images/Ar-isotherm-steps.png" alt="Ar-isotherm-steps" style="padding:10px;" width="600"/>
+# <img src="docs/Ar-isotherm-steps.png" alt="Ar-isotherm-steps" style="padding:10px;" width="600"/>
 
 ## Citation
 If you use this code in your research, please kindly consider citing the following:  
