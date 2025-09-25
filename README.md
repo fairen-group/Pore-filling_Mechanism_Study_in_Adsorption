@@ -1,4 +1,4 @@
-# A Code for Studying Pore Filling Mechanisms
+# A Code for Studying Pore Filling Mechanisms in Adsorption Processes
 
 This repository provides a Python code developed for the visualization and study of pore filling mechanisms in adsorption processes. It focuses on understanding how gas adsorbate molecules occupy pores within adsorbent frameworks when simulated using Grand Canonical Monte Carlo (GCMC) calculations.
 
@@ -17,5 +17,5 @@ Below is an example visualization generated using VESTA visualisation tools:
 # <img src="docs/images/step-2.png" alt="Ar-isotherm-steps" style="padding:10px;" width="600"/>
 
 ## Citation
-If you use this code in your research, please kindly cite the following:
+If you use this code in your research, please kindly consider citing the following:
 [https://chemrxiv.org/engage/chemrxiv/article-details/68cef31e3e708a764963d3a9]
