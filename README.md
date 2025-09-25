@@ -12,7 +12,7 @@ For a detailed explanation of the method and applications, please refer to the f
 ## Example
 An illustrative case is the study of pore filling mechanisms in argon (Ar) adsorption into the CU-6-Cr MOF.
 
-Below is an example visualization generated using VESTA visualisation tools:
+Below is an example visualization generated using VESTA visualisation tool:
 
 # <img src="docs/Ar-isotherm-steps.png" alt="Ar-isotherm-steps" style="padding:10px;" width="600"/>
 
